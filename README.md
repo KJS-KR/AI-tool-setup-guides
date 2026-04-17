@@ -11,6 +11,7 @@
 | 도구 | 가이드 | 환경 | 상태 |
 |------|--------|------|------|
 | 🦞 OpenClaw + Discord | [바로가기](./openclaw-discord-windows/README.md) | Windows WSL2 + Cursor + Claude Code | ✅ 완료 |
+| 🦞 OpenClaw + Discord + Ollama | [바로가기](./openclaw-discord-mac/README.md) | macOS Apple Silicon + Ollama (로컬 LLM) | ✅ 완료 |
 | 📡 Claude Code Channels + Discord | [바로가기](./claude-channels-discord/README.md) | macOS / Linux / Windows WSL | ✅ 완료 |
 | 🌐 Cloudflare Tunnel | [바로가기](./cloudflare-tunnel/README.md) | Ubuntu Linux | ✅ 완료 |
 | 🔌 Claude Code Plugins | [바로가기](./claude-code-plugins/README.md) | Claude Code v2.1.92+ | ✅ 완료 |
@@ -25,6 +26,8 @@
 ai-tool-setup-guides/
 ├── README.md                          ← 현재 파일
 ├── openclaw-discord-windows/          ← OpenClaw + Discord (Windows)
+│   └── README.md
+├── openclaw-discord-mac/              ← OpenClaw + Discord + Ollama (macOS)
 │   └── README.md
 ├── claude-channels-discord/           ← Claude Code Channels + Discord
 │   └── README.md
